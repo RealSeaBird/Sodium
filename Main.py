@@ -46,13 +46,4 @@ async def ihateyou(ctx):
 
 print(f"Token:{token}")
 
-#bot.run(token)
-
-
-
-
-print("Enter number plz")
-user_input = input()
-print("Enter second number plz")
-user_input2 = input()
-random.randint(user_input, user_input2)
+bot.run(token)
